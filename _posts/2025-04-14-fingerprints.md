@@ -9,3 +9,9 @@ It was decided to leave it up to the user, although this is obviously not feasib
 ### Examples
 Below are some examples of matching fingerprints, captured at different angles, and a mismatched fingerprint.
 
+![](/images/Example1.png "ex1")
+![](/images/Example2.png "ex2")
+![](/images/Mismatch.png "m1")
+
+
+
