@@ -11,6 +11,10 @@ Below are some examples of matching fingerprints, captured at different angles, 
 
 ![](/images/Example1.png "Fingerprint Comparison 1")
 ![](/images/Example2.png "Fingerprint Comparison 2 - Same database image, new comparison image")
+
+Fingerprint mismatches can be detected by large distances between minutiae pairs and crossing lines.
+
+
 ![](/images/Mismatch.png "Mismatched fingerprints")
 
 
