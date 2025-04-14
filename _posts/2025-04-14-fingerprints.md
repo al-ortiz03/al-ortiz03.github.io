@@ -5,12 +5,11 @@
 ### Performance
 ROC curves allow the evaluation of classification model performance by graphing true match rate against false match rate. 
 
-![](/images/Example1.png "Fingerprint Comparison 1")
+![](/images/roc_graphic.png "ROC Curve Guide")
 
 The ROC curve below is for the implemented fingerprint system. Evidently, the curve is questionable but modifying graph generation to achieve a better curve was unsuccessful. It can be concluded that the model has a relatively consistent true match rate over most thresholds, except for very low ones where a lot of false positives occur. 
 
-
-
+![](/images/ROC_Curve.png "Model ROC")
 
 ### Challenges
 A challenge was setting the threshold, as even correct matches often had relatively low scores of around 0.6 - 0.7.  
